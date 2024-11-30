@@ -1,4 +1,4 @@
-Projeto de Monitoramento Ambiental com ESP32
+**Projeto de Monitoramento Ambiental com ESP32**
 Este projeto utiliza um microcontrolador ESP32 para monitorar parâmetros ambientais, como temperatura, umidade e qualidade do ar. Os dados são coletados por sensores (DHT22 e MQ-135), exibidos em um display OLED e enviados para a plataforma Adafruit IO via protocolo MQTT para análise e monitoramento remoto.
 
 Componentes Utilizados
